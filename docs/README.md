@@ -21,6 +21,7 @@ flowchart LR
 - [PTES — fases do pentest](metodologia/ptes.md)
 - [OWASP Top 10 — referência rápida](metodologia/owasp-top10.md)
 - [Checklist de escopo e regras de engajamento](metodologia/escopo-checklist.md)
+- [Pentest black box — metodologia](metodologia/blackbox.md)
 
 ## Reconhecimento
 

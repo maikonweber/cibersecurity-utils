@@ -10,6 +10,7 @@ Todos os scripts assumem **autorização prévia**. Leia `-h` de cada um.
 | `recon/http-probe.sh` | Cabeçalhos HTTPS/HTTP por host |
 | `recon/api-path-probe.sh` | Códigos HTTP em paths comuns |
 | `recon/jenkins-login-probe.sh` | Mensagem de erro de login (poucos usuários, sem brute force) |
+| `recon/blackbox-run.sh` | Orquestra pentest black box (recon + nmap + probes) |
 | `scan/nmap-quick.sh` | Varredura TCP rápida com nmap |
 | `scan/nikto-wrapper.sh` | Wrapper seguro para nikto |
 | `enum/smb-enum.sh` | Enumeração SMB leve |

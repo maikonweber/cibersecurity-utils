@@ -15,7 +15,7 @@ Use este material **somente** em ambientes onde você tem **autorização explí
 
 ## Como começar
 
-1. Leia [`docs/metodologia/ptes.md`](docs/metodologia/ptes.md) para alinhar fases do teste.
+1. Leia [`docs/metodologia/ptes.md`](docs/metodologia/ptes.md) e [`docs/metodologia/blackbox.md`](docs/metodologia/blackbox.md).
 2. Confira se as ferramentas estão instaladas: `bash scripts/utils/check-tools.sh`
 3. Siga o fluxo sugerido em [`docs/README.md`](docs/README.md).
 
