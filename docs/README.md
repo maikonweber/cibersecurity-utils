@@ -12,6 +12,10 @@ flowchart LR
   F --> G[Relatório]
 ```
 
+## Engajamentos (casos reais / notas de campo)
+
+- [PLL — api + Jenkins (branch `pll-pentes`)](engajamentos/pll-pentest/README.md)
+
 ## Metodologia
 
 - [PTES — fases do pentest](metodologia/ptes.md)
