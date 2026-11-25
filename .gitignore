@@ -1,0 +1,20 @@
+# Secrets and local env
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+credentials*
+
+# Outputs from scans (may contain sensitive data)
+output/
+reports/raw/
+*.pcap
+*.nmap
+scan-*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
