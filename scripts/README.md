@@ -9,6 +9,7 @@ Todos os scripts assumem **autorização prévia**. Leia `-h` de cada um.
 | `recon/subdomains.sh` | Brute force de subdomínios (throttled) |
 | `recon/http-probe.sh` | Cabeçalhos HTTPS/HTTP por host |
 | `recon/api-path-probe.sh` | Códigos HTTP em paths comuns |
+| `recon/jenkins-login-probe.sh` | Mensagem de erro de login (poucos usuários, sem brute force) |
 | `scan/nmap-quick.sh` | Varredura TCP rápida com nmap |
 | `scan/nikto-wrapper.sh` | Wrapper seguro para nikto |
 | `enum/smb-enum.sh` | Enumeração SMB leve |
